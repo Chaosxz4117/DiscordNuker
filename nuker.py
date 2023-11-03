@@ -5,7 +5,7 @@ import json
 import random
 
 def banner():   
-    print("lowqualitynuker by kylx")
+    print("lowqualitynuker by cliff")
 
 # Raid functions----------------------------------------------------------
 async def channel_delete_raid():
